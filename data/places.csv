@@ -1,0 +1,22 @@
+id,name,lat,lon,open,close,category
+0,Stasiun Gubeng (Depot),-7.2654, 112.7533,0,1440,depot
+1,Soto Ambengan,-7.2565,112.7455,06:00,11:00,sarapan
+2,Lontong Balap Kranggan,-7.2567,112.7343,06:00,12:00,sarapan
+3,Pecel Semanggi Wonokromo,-7.2965,112.7380,06:00,11:00,sarapan
+4,Lontong Kupang Pegirian,-7.2400,112.7500,06:00,12:00,sarapan
+5,Rawon Embong Malang,-7.2619,112.7385,10:00,22:00,sepanjang hari
+6,Rujak Cingur Genteng Durasim,-7.2596,112.7428,10:00,21:00,sepanjang hari
+7,Sate Klopo Ondomohen,-7.2625, 112.7474,10:00,21:00,sepanjang hari
+8,Depot Bu Rudy Dr. Soetomo,-7.2913, 112.7371,10:00,21:00,sepanjang hari
+9,Tahu Tek Pahlawan,-7.2480,112.7370,10:00,20:00,sepanjang hari
+10,Pasar Atom (jajanan),-7.2470,112.7440,09:00,17:00,siang
+11,Pasar Keputran (jajanan),-7.2690,112.7380,07:00,15:00,siang
+12,Zangrandi Ice Cream,-7.2630,112.7440,10:00,21:00,dessert
+13,Tunjungan Plaza Food Court,-7.2625,112.7399,10:00,22:00,sepanjang hari
+14,Taman Bungkul (PKL),-7.2915,112.7398,16:00,23:00,malam
+15,Kya-Kya Kembang Jepun,-7.2428, 112.7408,17:00,24:00,malam
+16,Sentra Ikan Bulak Kenjeran,-7.2300,112.7960,11:00,21:00,siang
+17,Galaxy Mall Food Court,-7.2755,112.7822,10:00,22:00,sepanjang hari
+18,Pakuwon Mall Food Court,-7.2896, 112.6761,10:00,22:00,sepanjang hari
+19,East Coast Center,-7.2912,112.8177,16:00,23:00,malam
+20,Ciputra World Food Hall,-7.2920,112.7190,10:00,22:00,sepanjang hari
